@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m <a href="https://github.com/sonikarichamodur">Sonika Modur</a>✨</h1>
+<h1 align="center">Hi, I’m <a href="https://github.com/sonikarichamodur">Sonika Modur</a> ✨</h1>
 <p align="center">
   <b>AI/ML • Cloud Applications • Data-Driven Solutions</b><br>
   <span>Building efficient models, reliable pipelines, and solutions designed for production</span>
