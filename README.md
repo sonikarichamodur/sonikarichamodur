@@ -40,12 +40,12 @@
   <a href="https://www.credly.com/badges/8eddaa00-35cf-47a2-92ec-9d0f8a6f85b4/public_url">
     <img src="./badges/aws-certified-cloud-practitioner.png"
          alt="AWS Certified Cloud Practitioner"
-         style="width:120px; max-width:100%; height:auto; margin-right:12px;" />
+         style="width:160px; max-width:100%; height:auto; margin-right:12px;" />
   </a>
 
   <a href="https://www.credly.com/badges/575c340a-c051-40fc-bfe3-fccbfc561e79/public_url">
     <img src="./badges/professional-data-engineer-certification.png"
          alt="Google Cloud Certified Professional Data Engineer"
-         style="width:120px; max-width:100%; height:auto;" />
+         style="width:160px; max-width:100%; height:auto;" />
   </a>
 </p>
