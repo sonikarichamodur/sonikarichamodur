@@ -26,12 +26,12 @@
 5. **AdventureWorks ETL Data Pipeline:** transforms relational + NoSQL data into a star-schema warehouse for analytics purposes. [repo](https://github.com/sonikarichamodur/adventureworks-etl-pipeline)
 
 ## 📚 Coursework Highlights
-- **Data Structures & Algorithms II (CS 3100):** divide-and-conquer, greedy, dynamic programming, and reduction algorithms 
-- **Computer Systems & Organization II (CS 3130):** system architecture, virtual memory, concurrency, TCP/IP networking
-- **Software Engineering (CS 3240):** software development life-cycle, project management, Scrum + Agile methodologies
-- **Discrete Math & Theory II  (CS 3120):** computational theory, finite automata, context-free languages, Turing machines
-- **Machine Learning (CS 4774):** machine learning theory & algorithms, supervised/unsupervised learning, classification/regression, and optimization
-- **Data Science Systems (DS 2002):** data analysis pipelines, including data lakes, data warehouses, and non-SQL systems
+- **Data Structures & Algorithms II (CS 3100):** divide-and-conquer, greedy, dynamic programming, reductions
+- **Computer Systems & Organization II (CS 3130):** system architecture, virtual memory, concurrency, TCP/IP
+- **Software Engineering (CS 3240):** SDLC, project management, Scrum + Agile methodologies
+- **Discrete Math & Theory II  (CS 3120):** finite automata, context-free languages, Turing machines
+- **Machine Learning (CS 4774):** ML theory, supervised/unsupervised learning, classification/regression, optimization
+- **Data Science Systems (DS 2002):** ETL pipelines, RDBMS, non-SQL systems, data lakes/warehouses
 - **Introduction to Cybersecurity (CS 3710):** cyber threats & attacks, encryption, networking, digital forensics 
 
 
