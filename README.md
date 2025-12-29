@@ -37,13 +37,13 @@
 
 ## 🌟 Certifications
 <p>
-  <a href="https://www.credly.com/badges/8eddaa00-35cf-47a2-92ec-9d0f8a6f85b4/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/8eddaa00-35cf-47a2-92ec-9d0f8a6f85b4/public_url">
     <img src="./badges/aws-cloud-practitioner.png"
          alt="AWS Certified Cloud Practitioner"
          style="width:120px; max-width:100%; height:auto; margin-right:12px;" />
   </a>
 
-  <a href="https://www.credly.com/badges/575c340a-c051-40fc-bfe3-fccbfc561e79/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/575c340a-c051-40fc-bfe3-fccbfc561e79/public_url">
     <img src="./badges/google-data-engineer.png"
          alt="Google Cloud Certified Professional Data Engineer"
          style="width:120px; max-width:100%; height:auto;" />
