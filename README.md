@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python,aws,gcp,pytorch,sklearn,anaconda,mysql,sqlite,postgres,mongodb,docker,linux,git,github,heroku,gradle,js,react,html,css,figma,django,flask,graphql,latex,vim&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,aws,gcp,pytorch,sklearn,anaconda,mysql,sqlite,postgres,mongodb,docker,linux,git,github,heroku,gradle,js,react,html,css,figma,django,flask,graphql,latex,vim&perline=7" alt="Tech Stack" />
 </p>
 
 ---
