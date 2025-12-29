@@ -30,7 +30,7 @@
 - **Computer Systems & Organization II (CS 3130):** system architecture, virtual memory, concurrency, TCP/IP
 - **Software Engineering (CS 3240):** SDLC, project management, Scrum + Agile methodologies
 - **Discrete Math & Theory II  (CS 3120):** finite automata, context-free languages, Turing machines
-- **Machine Learning (CS 4774):** ML theory, supervised/unsupervised learning, classification/regression, optimization
+- **Machine Learning (CS 4774):** math foundations of ML theory, supervised/unsupervised learning, optimization
 - **Data Science Systems (DS 2002):** ETL pipelines, RDBMS, non-SQL systems, data lakes/warehouses
 - **Introduction to Cybersecurity (CS 3710):** cyber threats & attacks, encryption, networking, digital forensics 
 
