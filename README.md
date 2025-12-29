@@ -1,10 +1,9 @@
-<h1 align="center">Hi, I’m <a href="https://github.com/sonikarichamodur">Sonika Modur</a> 👋</h1>
+<h1 align="center">Hi, I’m <a href="https://github.com/sonikarichamodur">Sonika Modur</a>!</h1>
 <p align="center">
   <b>AI/ML • Cloud Applications • Data-Driven Solutions</b><br>
   <span>Building efficient models, reliable pipelines, and solutions designed for production</span>
 </p>
 
----
 
 ## 👩‍💻 About me
 - 🎓 B.S. **Computer Science** + Minor in Data Science @ **UVA**
@@ -12,14 +11,12 @@
 - 🧑‍🏫 **Head TA for CS 2130:** Computer Systems & Organization 1, helping students learn computer architecture, systems programming, and CLI fundamentals 
 - ✨ **Currently working on:** scalable ML workflows, data pipelines + analytics, and LeetCode 
 
----
 
 ## 🛠️ Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=java,c,python,aws,gcp,pytorch,sklearn,anaconda,mysql,sqlite,postgres,mongodb,docker,linux,git,github,heroku,gradle,js,react,html,css,figma,django,flask,graphql,latex,vim&perline=7" alt="Tech Stack" />
 </p>
 
----
 
 ## 📂 Projects
 1. **AI Dermatologist — Compact Skin Condition Classifier:** lightweight CNN (<5 MB) to classify 10 skin conditions from 10K+ images with heavy class imbalance 
@@ -28,7 +25,6 @@
 4. **Sustainability Marketplace Web App:** Led DevOps for a Django-based campus marketplace app with OAuth login, S3 storage, CI/CD pipelines, Heroku deploys, and Postgres migrations. [repo](https://github.com/sonikarichamodur/uva-marketplace)
 5. **AdventureWorks ETL Data Pipeline:** transforms relational + NoSQL data into a star-schema warehouse for analytics purposes. [repo](https://github.com/sonikarichamodur/adventureworks-etl-pipeline)
 
----
 ## 📚 Coursework Highlights
 - **Data Structures & Algorithms II (CS 3100):** divide-and-conquer, greedy, dynamic programming, and reduction algorithms 
 - **Computer Systems & Organization II (CS 3130):** system architecture, virtual memory, concurrency, TCP/IP networking
@@ -38,7 +34,6 @@
 - **Data Science Systems (DS 2002):** data analysis pipelines, including data lakes, data warehouses, and non-SQL systems
 - **Introduction to Cybersecurity (CS 3710):** cyber threats & attacks, encryption, networking, digital forensics 
 
----
 
 ## 🌟 Certifications
 <p>
